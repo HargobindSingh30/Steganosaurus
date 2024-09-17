@@ -13,7 +13,8 @@ safe.
 
 1. Embed Data in Image
 
-![image](https://github.com/user-attachments/assets/3b3aac73-7f3e-4996-965b-3466df31309f)
+![image](https://github.com/user-attachments/assets/d4f78388-c794-4817-bf3c-656c6bdee730)
+
 
 2. Retrieve Data
 
